@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  DenWeibo
+
+  Created by DengXiangfei on 2018/1/24.
+  Copyright © 2018年 DengXiangfei. All rights reserved.
+*/
+
+// tabBar
+"home_root_title" = "首页";
+"message_root_title" = "消息";
+"discover_root_title" = "发现";
+"me_root_title" = "我";
+
+// visitor
+"sign_in" = "登录";
+"sign_up" = "注册";
+
+"visitor_home_tip" = "关注一些人后，回到这里看看有什么惊喜";
+"visitor_message_tip" = "登录后，别人评论你的微博，给你发的消息都在这里收到通知";
+"visitor_discover_tip" = "登录后，最新最热微博尽在掌握";
+"visitor_me_tip" = "登录后，你的微博、相册、个人资料都会在这里展示给别人";
